@@ -47,17 +47,20 @@
 <img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/数据库/user.jpg" />
 
 ####五、代码
+  项目由gradle构建，下面给出一些比较重要的功能的代码：
 #####1、项目由gradle构建
-<img src=" " />
-#####1、项目由gradle构建
-<img src=" " />
-#####1、项目由gradle构建
-<img src=" " />
-#####1、项目由gradle构建
-<img src=" " />
-#####1、项目由gradle构建
-<img src=" " />
-#####1、项目由gradle构建
-<img src=" " />
-#####1、项目由gradle构建
-<img src=" " />
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/gradle构建.jpg" />
+#####2、登录登出功能
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/登录登出功能截图.jpg" />
+#####3、Dao层结构
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/Dao层.jpg" />
+#####4、学习计划功能核心代码
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/学习计划功能1.jpg" />
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/学习计划功能2.jpg" />
+#####5、选课功能
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/选课功能1.jpg" />
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/选课功能2.jpg" />
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/选课功能3.jpg" />
+#####6、选课情况功能
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/课程选课情况1.jpg" />
+<img src="https://github.com/LinZhengM/SRS/blob/master/SRS系统/图/代码图/课程选课情况2.jpg" />
